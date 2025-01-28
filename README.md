@@ -12,10 +12,10 @@ This repository contains two sample R scripts that showcase methods for aggregat
 
 ## Repository Structure
 
-project/
-├── README.md                    # Project documentation
-├── Import Data Aggregation.R  # Script for aggregating import data
-├── Missing Report.R   # Script for identifying missing reports
+     project/
+     ├── README.md
+     ├── Import Data Aggregation.R      # Script for aggregating import data
+     ├── Missing Report.R      # Script for identifying missing reports
 
 ---
 
